@@ -1,4 +1,4 @@
-# Aswin Kumar K — Student Portfolio
+# Jebin v — Student Portfolio
 
 A responsive personal portfolio built with HTML, CSS, and vanilla JavaScript.
 
@@ -8,7 +8,7 @@ A responsive personal portfolio built with HTML, CSS, and vanilla JavaScript.
 3. Your profile photo is stored at `images/aswin-kumar.jpg`.
 
 ## Personal details included
-- Aswin Kumar K
+- Jebin V
 - B.Sc. Computer Science, KG College of Arts and Science
 - Interests: content creation and web development
 - Skills: HTML, CSS, JavaScript
