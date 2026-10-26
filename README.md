@@ -12,7 +12,7 @@ A responsive personal portfolio built with HTML, CSS, and vanilla JavaScript.
 - B.Sc. Computer Science, KG College of Arts and Science
 - Interests: content creation and web development
 - Skills: HTML, CSS, JavaScript
-- Java project linked to https://github.com/25bcs207-art/2SEM-JAVA-PROJECT
+- Java project linked to https://github.com/jebin0077aj-max/2-sem-Java-project
 
 ## Notes
 The other two project cards are sample concepts. Replace them with completed projects when ready. The contact form is a front-end demo: it validates entries but does not send or store messages.
